@@ -1,0 +1,16 @@
+{
+  "name": "crynova-prime",
+  "version": "1.0.0",
+  "description": "البوت الرئيسي للاستثمار وإدارة المحفظة في منصة Crynova",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "grammy": "^1.38.2"
+  }
+}
